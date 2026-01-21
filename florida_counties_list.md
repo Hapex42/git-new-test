@@ -24,3 +24,5 @@ Return a markdown table with these columns:
 
 If any population value is missing or unclear, note "Unknown" and explain why
 in a short footnote below the table.
+
+Package the downloadable .csv file named "FL County Data.csv" and use commas as separators
